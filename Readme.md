@@ -13,3 +13,5 @@ despliegue proyecto desarrolloBE: Segundo, se debe importar el proyecto en la he
 
 Para realizar las pruebas Tienen que estar los 3 proyectos levantados y colocar en el navegador localhost:4200 (ingresar nombre completo de la persona y la fecha de nacimiento) luego al hacer clic en el boton el servicio responderá con la felicitación en caso de estar de cumpleaños o no mostrará la felicitación en caso de haber estado o estará de cumpleaños.
 
+Para realizar test se debe ir al proyecto -> clic derecho y colocar Coverage As -> JUnit Test
+
